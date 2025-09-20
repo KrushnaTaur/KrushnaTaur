@@ -34,7 +34,7 @@
 ---
 
 ## 📌 Featured Projects  
-- 🎵 [Spotify-Clone](#) – Built using HTML & CSS  
+- 🎵 [Spotify Clone](https://github.com/KrushnaTaur/Spotify-Clone) – Built using HTML & CSS  
 
 ---
 
