@@ -3,12 +3,12 @@
 ## 👨‍💻 About Me
 🎓 BTech **AI & Data Science** student at **MIT Chh. Sambhajinagar**  
 💻 Diploma Graduate in **Computer Technology**  
-🚀 Currently working on **AI/ML, Web Development & Frontend**  
+🚀 Currently working on **AI/ML & Web Development**  
 📈 Focused on building strong fundamentals + real projects  
 
 ---
 
-## 🛠 Tech Stack (Category-Wise)
+## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
